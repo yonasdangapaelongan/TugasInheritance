@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.exe
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.deps.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.runtimeconfig.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.dll
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\bin\Debug\netcoreapp3.1\InheritanceTugas.pdb
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.dll
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.pdb
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\obj\Debug\netcoreapp3.1\InheritanceTugas.genruntimeconfig.cache
